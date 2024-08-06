@@ -1,0 +1,14 @@
+header {
+  padding: 10px;
+}
+header .logo {
+  width: 100px;
+}
+header .navbar {
+  background-color: #333;
+}
+header .navbar ul {
+  display: flex;
+}
+
+/*# sourceMappingURL=style.css.map */
